@@ -1,0 +1,1 @@
+# trash-detection-yolov8
